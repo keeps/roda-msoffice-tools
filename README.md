@@ -1,7 +1,7 @@
 roda-msoffice-tools
 ===================
 
-Tools that use Microsoft Office to convert formats in command-line. These tools are use on the [RODA Project](http://roda-community.org) to convert Microsoft Office files to PDF on ingest.
+Tools that use Microsoft Office to convert formats in command-line. These tools are used on the [RODA Project](http://roda-community.org) to convert Microsoft Office files to PDF on ingest.
 
 To build you must use Visual Studio. To use one must have Microsoft Office installed.
 
