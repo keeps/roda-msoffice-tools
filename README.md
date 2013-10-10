@@ -12,3 +12,21 @@ Use Microsoft Word to convert doc and docx files to PDF.
 ```
 C:\> doc2pdf.exe file.docx file.pdf
 ```
+
+## ppt2pdf
+
+Use Microsoft Powerpoint to convert ppt and docx files to PDF.
+
+```
+C:\> ppt2pdf.exe file.pptx file.pdf
+```
+
+## xls2pdf
+
+Use Microsoft Excel to convert xls and xlsx files to PDF.
+
+```
+C:\> xls2pdf.exe file.xlsx file.pdf
+```
+
+
